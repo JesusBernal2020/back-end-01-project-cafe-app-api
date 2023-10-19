@@ -9,7 +9,7 @@
 Este proyecto es una api de cafeteria, que permitira crear un producto o comida, con su imagen, con sus cantidades, su precio, su descripcion, añadir los ingredientes con los cuales se hizo ese producto, si es nuevo.
 La aplicacion esta construida utilizandoo node.js express.js y utuliza como base de datos PostgresSQL para almacenar la informacion
 
-[Aqui se encuentra la documentacion de la Api, has click aqui para usar la en tus proyectos](https://documenter.getpostman.com/view/28473907/2s9YR9YsTt)
+[Aqui se encuentra la documentacion de la Api, has click aqui para usarla en tus proyectos](https://documenter.getpostman.com/view/28473907/2s9YR9YsTt)
 
 ## Caracteres principales
 
